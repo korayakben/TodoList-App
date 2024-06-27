@@ -1,0 +1,19 @@
+  .btn{
+         width: 15%;
+        transition: 1s;
+    }
+
+ .btn:hover{
+        transition: 1s;
+        background-color: black;
+        border-color: black;
+    }
+
+
+#delete-button:hover{
+  background-color: rgb(163, 26, 26);
+  border-color: rgb(163, 26, 26);
+}
+
+
+
