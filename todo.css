@@ -15,5 +15,11 @@
   border-color: rgb(163, 26, 26);
 }
 
+@media (max-width:775px) {
+  #clear-todos , #add-todo{
+    width: 40%;
+  }
+}
+
 
 
